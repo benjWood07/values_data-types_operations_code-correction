@@ -1,5 +1,5 @@
 {
-  "name": "code_correction",
+  "name": "character_checker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/benjWood07/values_data-types_operations_code-correction/issues"
   },
-  "homepage": "https://github.com/benjWood07/values_data-types_operations_code-correction#readme"
+  "homepage": "https://github.com/benjWood07/values_data-types_operations_code-correction#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
